@@ -18,6 +18,6 @@ Python
 - [ ] [connexion](https://connexion.readthedocs.io/en/latest/)
 
   Sqlalchemy
-  - [ ] [regular expression filters in SQLAlchemy](http://xion.io/post/code/sqlalchemy-regex-filters.html)  
+  - [x] [regular expression filters in SQLAlchemy](http://xion.io/post/code/sqlalchemy-regex-filters.html)  
   - [x] [printing the generated query including parameters](https://www.johbo.com/2016/printing-the-generated-query-including-parameters.html)
 
