@@ -22,4 +22,4 @@ Python
   - [x] [printing the generated query including parameters](https://www.johbo.com/2016/printing-the-generated-query-including-parameters.html)
 
 Postgres
-- [ ] [NOT IN vs. NOT EXISTS vs. LEFT JOIN / IS NULL: PostgreSQL](https://explainextended.com/2009/09/16/not-in-vs-not-exists-vs-left-join-is-null-postgresql/)
+- [x] [NOT IN vs. NOT EXISTS vs. LEFT JOIN / IS NULL: PostgreSQL](https://explainextended.com/2009/09/16/not-in-vs-not-exists-vs-left-join-is-null-postgresql/)
