@@ -16,6 +16,7 @@ Kubernetes
 Python
 - [ ] [flask potion](https://potion.readthedocs.io/en/latest/)
 - [ ] [connexion](https://connexion.readthedocs.io/en/latest/)
+- [x] [The definitive guide to Python exceptions](https://julien.danjou.info/python-exceptions-guide/)
 
   Sqlalchemy
   - [x] [regular expression filters in SQLAlchemy](http://xion.io/post/code/sqlalchemy-regex-filters.html)  
