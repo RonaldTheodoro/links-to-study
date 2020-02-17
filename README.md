@@ -16,6 +16,7 @@ Kubernetes
 Python
 - [ ] [flask potion](https://potion.readthedocs.io/en/latest/)
 - [ ] [connexion](https://connexion.readthedocs.io/en/latest/)
+- [ ] [The definitive guide on how to use static, class or abstract methods in Python](https://julien.danjou.info/guide-python-static-class-abstract-methods/)
 - [x] [The definitive guide to Python exceptions](https://julien.danjou.info/python-exceptions-guide/)
 
   Sqlalchemy
