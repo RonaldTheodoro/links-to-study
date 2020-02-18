@@ -14,14 +14,16 @@ Kubernetes
 
 
 Python
-- [ ] [flask potion](https://potion.readthedocs.io/en/latest/)
-- [ ] [connexion](https://connexion.readthedocs.io/en/latest/)
 - [ ] [The definitive guide on how to use static, class or abstract methods in Python](https://julien.danjou.info/guide-python-static-class-abstract-methods/)
 - [x] [The definitive guide to Python exceptions](https://julien.danjou.info/python-exceptions-guide/)
 
   Sqlalchemy
   - [x] [regular expression filters in SQLAlchemy](http://xion.io/post/code/sqlalchemy-regex-filters.html)  
   - [x] [printing the generated query including parameters](https://www.johbo.com/2016/printing-the-generated-query-including-parameters.html)
+  Flask
+  - [ ] [Test-Driven Development with Python, Flask, and Docker](https://testdriven.io/courses/tdd-flask/)
+  - [ ] [flask potion](https://potion.readthedocs.io/en/latest/)
+  - [ ] [connexion](https://connexion.readthedocs.io/en/latest/)
 
 Postgres
 - [x] [NOT IN vs. NOT EXISTS vs. LEFT JOIN / IS NULL: PostgreSQL](https://explainextended.com/2009/09/16/not-in-vs-not-exists-vs-left-join-is-null-postgresql/)
