@@ -8,6 +8,7 @@ Front end
 - [ ] [three things you didnt know about the async pipe](https://blog.thoughtram.io/angular/2017/02/27/three-things-you-didnt-know-about-the-async-pipe.html)
 - [ ] [cold vs hot observables](https://blog.thoughtram.io/angular/2016/06/16/cold-vs-hot-observables.html)
 - [ ] [es6 in depth](https://ponyfoo.com/articles/tagged/es6-in-depth)
+- [ ] [how to make http requests like a pro with axios](https://blog.logrocket.com/how-to-make-http-requests-like-a-pro-with-axios/)
 - [ ] [axios vcr](https://github.com/nettofarah/axios-vcr)
 
 Kubernetes
