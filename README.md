@@ -10,6 +10,7 @@ Front end
 - [ ] [es6 in depth](https://ponyfoo.com/articles/tagged/es6-in-depth)
 - [ ] [how to make http requests like a pro with axios](https://blog.logrocket.com/how-to-make-http-requests-like-a-pro-with-axios/)
 - [ ] [axios vcr](https://github.com/nettofarah/axios-vcr)
+- [ ] [Angular dynamic form](https://stackblitz.com/edit/angular-dynamic-form-builder)
 
 Kubernetes
 - [ ] [kubernetes for full stack developers](https://www.digitalocean.com/community/curriculums/kubernetes-for-full-stack-developers)
