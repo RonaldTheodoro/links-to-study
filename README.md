@@ -1,6 +1,6 @@
 # Links to study
 
-Some links with nice tutorials or course to study at some moment in the future
+Some links with nice tutorials or courses to study at some moment in the future
 
 Front end
 - [ ] [js com tdd na pratica](https://www.udemy.com/course/js-com-tdd-na-pratica/)
