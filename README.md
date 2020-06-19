@@ -11,6 +11,7 @@ Front end
 - [ ] [how to make http requests like a pro with axios](https://blog.logrocket.com/how-to-make-http-requests-like-a-pro-with-axios/)
 - [ ] [axios vcr](https://github.com/nettofarah/axios-vcr)
 - [ ] [Angular dynamic form](https://stackblitz.com/edit/angular-dynamic-form-builder)
+- [ ] [Dynamic Page Titles in Angular](https://blog.bitsrc.io/dynamic-page-titles-in-angular-98ce20b5c334)
 
 Kubernetes
 - [ ] [kubernetes for full stack developers](https://www.digitalocean.com/community/curriculums/kubernetes-for-full-stack-developers)
