@@ -14,6 +14,7 @@ Front end
 - [ ] [Dynamic Page Titles in Angular](https://blog.bitsrc.io/dynamic-page-titles-in-angular-98ce20b5c334)
 - [ ] [Reloading Components when change in Route Params](https://medium.com/@mvivek3112/reloading-components-when-change-in-route-params-angular-deed6107c6bb)
 - [ ] [Dealing with route params in Angular](https://kamranahmed.info/blog/2018/02/28/dealing-with-route-params-in-angular-5/)
+- [ ] [Allow Only Numbers or Alphanumeric in Input Restrict Other Characters using Keypress Event](https://www.freakyjolly.com/angular-allow-only-numbers-or-alphanumeric-in-input-restrict-other-characters-using-keypress-event/)
 
 Kubernetes
 - [ ] [kubernetes for full stack developers](https://www.digitalocean.com/community/curriculums/kubernetes-for-full-stack-developers)
