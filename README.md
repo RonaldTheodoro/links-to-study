@@ -24,6 +24,7 @@ Python
 - [ ] [The definitive guide on how to use static, class or abstract methods in Python](https://julien.danjou.info/guide-python-static-class-abstract-methods/)
 - [x] [The definitive guide to Python exceptions](https://julien.danjou.info/python-exceptions-guide/)
 - [ ] [Stop Using datetime.now!](https://hakibenita.com/python-dependency-injection)
+- [ ] [The Definitive Guide to Python import Statements](https://chrisyeh96.github.io/2017/08/08/definitive-guide-python-imports.html)
 
   Sqlalchemy
   - [x] [regular expression filters in SQLAlchemy](http://xion.io/post/code/sqlalchemy-regex-filters.html)  
