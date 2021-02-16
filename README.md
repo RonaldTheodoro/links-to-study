@@ -16,6 +16,8 @@ Front end
 - [ ] [Dealing with route params in Angular](https://kamranahmed.info/blog/2018/02/28/dealing-with-route-params-in-angular-5/)
 - [ ] [Allow Only Numbers or Alphanumeric in Input Restrict Other Characters using Keypress Event](https://www.freakyjolly.com/angular-allow-only-numbers-or-alphanumeric-in-input-restrict-other-characters-using-keypress-event/)
 - [ ] [Angular Material Datepicker Format](https://www.concretepage.com/angular-material/angular-material-datepicker-format)
+- [ ] [Angular 10 - Simple Pagination Example](https://jasonwatmore.com/post/2020/10/03/angular-10-simple-pagination-example)
+- [ ] [ngx-pagination](http://michaelbromley.github.io/ngx-pagination/#/)
 
 Kubernetes
 - [ ] [kubernetes for full stack developers](https://www.digitalocean.com/community/curriculums/kubernetes-for-full-stack-developers)
