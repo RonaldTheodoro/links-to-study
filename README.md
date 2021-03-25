@@ -30,6 +30,7 @@ Python
 - [ ] [The Definitive Guide to Python import Statements](https://chrisyeh96.github.io/2017/08/08/definitive-guide-python-imports.html)
 - [ ] [Python Logging Traps](https://www.simonmweber.com/2014/11/24/python-logging-traps.html)
 - [ ] [tabula](https://tabula.technology/)
+- [ ] [hasattr() – A Dangerous Misnomer](https://hynek.me/articles/hasattr/)
 
   Sqlalchemy
   - [x] [regular expression filters in SQLAlchemy](http://xion.io/post/code/sqlalchemy-regex-filters.html)  
