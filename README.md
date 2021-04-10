@@ -44,6 +44,7 @@ Python
 
 Databases
 - [ ] [Some SQL Tricks of an Application DBA](https://hakibenita.com/sql-tricks-application-dba)
+- [x] [my thoughts on getting random row](https://www.depesz.com/2007/09/16/my-thoughts-on-getting-random-row/)
 
   Postgres
   - [x] [NOT IN vs. NOT EXISTS vs. LEFT JOIN / IS NULL: PostgreSQL](https://explainextended.com/2009/09/16/not-in-vs-not-exists-vs-left-join-is-null-postgresql/)
