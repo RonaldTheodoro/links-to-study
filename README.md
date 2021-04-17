@@ -48,3 +48,5 @@ Databases
 
   Postgres
   - [x] [NOT IN vs. NOT EXISTS vs. LEFT JOIN / IS NULL: PostgreSQL](https://explainextended.com/2009/09/16/not-in-vs-not-exists-vs-left-join-is-null-postgresql/)
+Linux
+  - [x] [How to Reset Ubuntu Password in 2 Minutes](https://itsfoss.com/how-to-hack-ubuntu-password/)
