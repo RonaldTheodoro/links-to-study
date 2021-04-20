@@ -50,3 +50,10 @@ Databases
   - [x] [NOT IN vs. NOT EXISTS vs. LEFT JOIN / IS NULL: PostgreSQL](https://explainextended.com/2009/09/16/not-in-vs-not-exists-vs-left-join-is-null-postgresql/)
 Linux
   - [x] [How to Reset Ubuntu Password in 2 Minutes](https://itsfoss.com/how-to-hack-ubuntu-password/)
+
+Serverless
+- [ ] [Serverless Framework: Defining Per-Function IAM Roles](https://medium.com/@glicht/serverless-framework-defining-per-function-iam-roles-c678fa09f46d)
+
+Coursera
+- [ ] [Building Modern Python Applications on AWS](https://pt.coursera.org/learn/building-modern-python-applications-on-aws)
+- [ ] [Building Containerized Applications on AWS](https://www.coursera.org/learn/containerized-apps-on-aws)
