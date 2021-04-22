@@ -37,6 +37,7 @@ Python
   - [x] [printing the generated query including parameters](https://www.johbo.com/2016/printing-the-generated-query-including-parameters.html)
   - [x] [Using UUIDs instead of Integer Autoincrement Primary Keys with SQLAlchemy and MariaDb](https://www.peterspython.com/en/blog/using-uuids-instead-of-integer-autoincrement-primary-keys-with-sqlalchemy-and-mariadb)
   - [x] [Convert sqlalchemy row object to python dict](https://stackoverflow.com/questions/1958219/convert-sqlalchemy-row-object-to-python-dict)
+  - [ ] [How to close sqlalchemy connection in MySQL](https://stackoverflow.com/questions/8645250/how-to-close-sqlalchemy-connection-in-mysql/8705750#8705750)
 
   Flask
   - [ ] [Test-Driven Development with Python, Flask, and Docker](https://testdriven.io/courses/tdd-flask/)
