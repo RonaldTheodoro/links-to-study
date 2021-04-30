@@ -22,7 +22,6 @@ Front end
 Kubernetes
 - [ ] [kubernetes for full stack developers](https://www.digitalocean.com/community/curriculums/kubernetes-for-full-stack-developers)
 
-
 Python
 - [ ] [The definitive guide on how to use static, class or abstract methods in Python](https://julien.danjou.info/guide-python-static-class-abstract-methods/)
 - [x] [The definitive guide to Python exceptions](https://julien.danjou.info/python-exceptions-guide/)
