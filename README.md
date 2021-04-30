@@ -59,3 +59,6 @@ Serverless
 Coursera
 - [ ] [Building Modern Python Applications on AWS](https://pt.coursera.org/learn/building-modern-python-applications-on-aws)
 - [ ] [Building Containerized Applications on AWS](https://www.coursera.org/learn/containerized-apps-on-aws)
+
+Selenium
+- [ ] [How Selenium Works: Episode 1 - Transportation](https://www.theautomatedtester.co.uk/blog/how-selenium-works-transport/)
