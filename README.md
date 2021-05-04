@@ -61,3 +61,4 @@ Coursera
 
 Selenium
 - [ ] [How Selenium Works: Episode 1 - Transportation](https://www.theautomatedtester.co.uk/blog/how-selenium-works-transport/)
+- [ ] [Google ReCaptcha bypass](https://github.com/teal33t/captcha_bypass/blob/master/recaptcha_buster_bypass.py)
