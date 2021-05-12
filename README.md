@@ -58,6 +58,7 @@ Serverless
 - [ ] [Serverless Framework: Defining Per-Function IAM Roles](https://medium.com/@glicht/serverless-framework-defining-per-function-iam-roles-c678fa09f46d)
 - [ ] [Controlling concurrency of AWS Lambda](https://medium.com/consulner/controlling-concurrency-of-aws-lambda-d51057ee1d62)
 - [ ] [AWS Lambda SQS events with Serverless Framework](https://medium.com/consulner/aws-lambda-sqs-events-with-serverless-framework-7429471ac664)
+- [ ] [UnreservedConcurrentExecution below its minimum value of [100]](https://forum.serverless.com/t/unreservedconcurrentexecution-below-its-minimum-value-of-100/10323)
 
 Coursera
 - [ ] [Building Modern Python Applications on AWS](https://pt.coursera.org/learn/building-modern-python-applications-on-aws)
