@@ -30,6 +30,8 @@ Python
 - [ ] [Python Logging Traps](https://www.simonmweber.com/2014/11/24/python-logging-traps.html)
 - [ ] [tabula](https://tabula.technology/)
 - [ ] [hasattr() – A Dangerous Misnomer](https://hynek.me/articles/hasattr/)
+- [ ] [When You Import a Python Package and It Is Empty](https://blog.petrzemek.net/2020/11/17/when-you-import-a-python-package-and-it-is-empty/)
+- [ ] [On Incomplete HTTP Reads and the Requests Library In Python](https://blog.petrzemek.net/2018/04/22/on-incomplete-http-reads-and-the-requests-library-in-python/)
 
   Sqlalchemy
   - [x] [regular expression filters in SQLAlchemy](http://xion.io/post/code/sqlalchemy-regex-filters.html)  
@@ -62,3 +64,6 @@ Coursera
 Selenium
 - [ ] [How Selenium Works: Episode 1 - Transportation](https://www.theautomatedtester.co.uk/blog/how-selenium-works-transport/)
 - [ ] [Google ReCaptcha bypass](https://github.com/teal33t/captcha_bypass/blob/master/recaptcha_buster_bypass.py)
+
+Web Scraping
+- [ ] [Web Scraping in F5 ASM](https://www.kareemccie.com/2020/07/web-scraping-in-f5-asm.html)
