@@ -72,3 +72,6 @@ Selenium
 
 Web Scraping
 - [ ] [Web Scraping in F5 ASM](https://www.kareemccie.com/2020/07/web-scraping-in-f5-asm.html)
+
+Cryptography
+- [ ] [Create GnuPG key with sub-keys to sign, encrypt, authenticate](https://blog.tinned-software.net/create-gnupg-key-with-sub-keys-to-sign-encrypt-authenticate/)
