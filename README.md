@@ -69,6 +69,9 @@ Coursera
 Selenium
 - [ ] [How Selenium Works: Episode 1 - Transportation](https://www.theautomatedtester.co.uk/blog/how-selenium-works-transport/)
 - [ ] [Google ReCaptcha bypass](https://github.com/teal33t/captcha_bypass/blob/master/recaptcha_buster_bypass.py)
+- [ ] [Concurrent Web Scraping with Selenium Grid and Docker Swarm](https://testdriven.io/blog/concurrent-web-scraping-with-selenium-grid-and-docker-swarm/)
+- [ ] [Building a Concurrent Web Scraper with Python and Selenium](https://testdriven.io/blog/building-a-concurrent-web-scraper-with-python-and-selenium/)
+- [ ] [Useful Docker Selenium container image for automation](https://github.com/kevinhowbrook/Selenium-Python-Docker-scraper)
 
 Web Scraping
 - [ ] [Web Scraping in F5 ASM](https://www.kareemccie.com/2020/07/web-scraping-in-f5-asm.html)
