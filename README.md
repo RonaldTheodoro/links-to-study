@@ -72,6 +72,7 @@ Selenium
 - [ ] [Concurrent Web Scraping with Selenium Grid and Docker Swarm](https://testdriven.io/blog/concurrent-web-scraping-with-selenium-grid-and-docker-swarm/)
 - [ ] [Building a Concurrent Web Scraper with Python and Selenium](https://testdriven.io/blog/building-a-concurrent-web-scraper-with-python-and-selenium/)
 - [ ] [Useful Docker Selenium container image for automation](https://github.com/kevinhowbrook/Selenium-Python-Docker-scraper)
+- [ ] [How To Run Your Tests Headlessly with Xvfb](http://elementalselenium.com/tips/38-headless)
 
 Web Scraping
 - [ ] [Web Scraping in F5 ASM](https://www.kareemccie.com/2020/07/web-scraping-in-f5-asm.html)
