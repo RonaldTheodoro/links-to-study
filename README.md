@@ -33,6 +33,8 @@ Python
 - [ ] [When You Import a Python Package and It Is Empty](https://blog.petrzemek.net/2020/11/17/when-you-import-a-python-package-and-it-is-empty/)
 - [ ] [On Incomplete HTTP Reads and the Requests Library In Python](https://blog.petrzemek.net/2018/04/22/on-incomplete-http-reads-and-the-requests-library-in-python/)
 - [ ] [import asyncio: Learn Python's AsyncIO](https://www.youtube.com/playlist?list=PLhNSoGM2ik6SIkVGXWBwerucXjgP1rHmB)
+- [ ] [python-docx-template](https://docxtpl.readthedocs.io/en/latest/#share)
+- [ ] [Generating Custom Word Documents From Templates Using Python](https://blog.formpl.us/how-to-generate-word-documents-from-templates-using-python-cb039ea2c890)
 
   Sqlalchemy
   - [x] [regular expression filters in SQLAlchemy](http://xion.io/post/code/sqlalchemy-regex-filters.html)  
