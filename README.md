@@ -35,6 +35,7 @@ Python
 - [ ] [import asyncio: Learn Python's AsyncIO](https://www.youtube.com/playlist?list=PLhNSoGM2ik6SIkVGXWBwerucXjgP1rHmB)
 - [ ] [python-docx-template](https://docxtpl.readthedocs.io/en/latest/#share)
 - [ ] [Generating Custom Word Documents From Templates Using Python](https://blog.formpl.us/how-to-generate-word-documents-from-templates-using-python-cb039ea2c890)
+- [ ] [Convert PIL or OpenCV Image to Bytes without Saving to Disk](https://jdhao.github.io/2019/07/06/python_opencv_pil_image_to_bytes/)
 
   Sqlalchemy
   - [x] [regular expression filters in SQLAlchemy](http://xion.io/post/code/sqlalchemy-regex-filters.html)  
