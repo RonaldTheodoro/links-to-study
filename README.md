@@ -37,6 +37,7 @@ Python
 - [ ] [Generating Custom Word Documents From Templates Using Python](https://blog.formpl.us/how-to-generate-word-documents-from-templates-using-python-cb039ea2c890)
 - [ ] [Convert PIL or OpenCV Image to Bytes without Saving to Disk](https://jdhao.github.io/2019/07/06/python_opencv_pil_image_to_bytes/)
 - [ ] [Convert Images to PDF using Python](https://datatofish.com/images-to-pdf-python/)
+- [ ] [Configuring TLS With Requests](https://lukasa.co.uk/2017/02/Configuring_TLS_With_Requests/)
 
   Sqlalchemy
   - [x] [regular expression filters in SQLAlchemy](http://xion.io/post/code/sqlalchemy-regex-filters.html)  
