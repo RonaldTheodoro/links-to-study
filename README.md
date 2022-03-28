@@ -62,6 +62,7 @@ Linux
   - [ ] [25 Useful DNF Command Examples For Package Management In Linux](https://www.rootusers.com/25-useful-dnf-command-examples-for-package-management-in-linux/)
   - [ ] [Fedora 34/33/32 NVIDIA Drivers Install Guide](https://www.if-not-true-then-false.com/2015/fedora-nvidia-guide/)
   - [ ] [How to Set Nvidia as Primary GPU on Optimus-based Laptops](https://docs.fedoraproject.org/en-US/quick-docs/how-to-set-nvidia-as-primary-gpu-on-optimus-based-laptops/)
+  - [ ] [Linux DBeaver Setup guide flatpak](https://j0eii.cwh-labs.com/linux-dbeaver-setup-guide/
 
 Serverless
 - [ ] [Serverless Framework: Defining Per-Function IAM Roles](https://medium.com/@glicht/serverless-framework-defining-per-function-iam-roles-c678fa09f46d)
