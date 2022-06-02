@@ -95,4 +95,4 @@ Tor
 - [ ] [Set TOR Exit Node – TOR Browser, Country Code, Specific Node](https://www.optimizationcore.com/security/set-tor-exit-node-tor-browser-country-code-specific-node/)
 
 Stackoverflow
-- [] [python requests : SSL error during requests?](https://stackoverflow.com/questions/61631955/python-requests-ssl-error-during-requests)
+- [x] [python requests : SSL error during requests?](https://stackoverflow.com/questions/61631955/python-requests-ssl-error-during-requests)
